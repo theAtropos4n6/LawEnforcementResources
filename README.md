@@ -20,9 +20,10 @@ Resources provided by the community that can serve to be useful for Law Enforcem
  2. [MLA Resources](#mla-resources)
  3. [End-to-end encrypted messengers](#end-to-end-encrypted-messengers)
  4. [Self Contained and Darknet Resources](#self-contained-and-darknet-resources)
- 5. [Regular Expressions](#regular-expressions)
- 6. [Android Resources](#android-resources)
- 7. [Contributing to this Project](#contributing-to-this-project)
+ 5. [Resources for CSAM Investigators](#Resources-for-CSAM-Investigators)
+ 6. [Regular Expressions](#regular-expressions)
+ 7. [Android Resources](#android-resources)
+ 8. [Contributing to this Project](#contributing-to-this-project)
 
 ## Free Training
 
@@ -163,6 +164,12 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [Freenet](https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
 * [Tails](https://tails.boum.org/) - is a portable operating system that protects against surveillance and censorship.
 * [Whonix](https://www.whonix.org/) - Software That Can Anonymize Everything You Do Online.
+
+## Resources for CSAM Investigators
+While the mission of combating child sexual abuse is extremely important, it is also important to keep ourselves healthy. The following are a few research papers showing the effects of prolonged exposure to CSAM material.
+* [Mental health factors from working CSAM](https://www.unh.edu/ccrc/sites/default/files/media/2024-04/gewirtz-meydan-et-al-2024_0.pdf) - Paper from University of New Hampshire
+* [Posttraumatic stress among CSAM investigators](https://academic.oup.com/policing/article/doi/10.1093/police/paad052/7243870) - Paper from Oxford
+* [Intimate relationship satisfaction among CSAM investigators](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1237510/full) - Paper from Frontiers in Public Health
 
 ## Regular Expressions
 
